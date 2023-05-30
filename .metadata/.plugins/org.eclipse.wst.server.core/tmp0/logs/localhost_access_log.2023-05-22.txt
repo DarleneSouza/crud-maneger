@@ -1,0 +1,10 @@
+127.0.0.1 - - [22/May/2023:21:07:40 -0300] "GET / HTTP/1.1" 404 763
+127.0.0.1 - - [22/May/2023:21:07:43 -0300] "GET /crud-manager/ HTTP/1.1" 200 6227
+127.0.0.1 - - [22/May/2023:21:07:43 -0300] "GET /crud-manager/css/style.css HTTP/1.1" 200 122
+127.0.0.1 - - [22/May/2023:21:07:43 -0300] "GET /crud-manager/js/bootstrap.min.js HTTP/1.1" 200 37045
+127.0.0.1 - - [22/May/2023:21:07:43 -0300] "GET /crud-manager/css/bootstrap.min.css HTTP/1.1" 200 121200
+127.0.0.1 - - [22/May/2023:21:07:43 -0300] "GET /crud-manager/js/jquery.min.js HTTP/1.1" 200 86659
+127.0.0.1 - - [22/May/2023:21:07:43 -0300] "GET /crud-manager/images/logo.png HTTP/1.1" 200 34856
+127.0.0.1 - - [22/May/2023:21:07:43 -0300] "GET /crud-manager/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028
+127.0.0.1 - - [22/May/2023:21:07:43 -0300] "GET /crud-manager/images/favicon.ico HTTP/1.1" 200 113141
+127.0.0.1 - - [22/May/2023:21:07:51 -0300] "GET /crud-manager/ HTTP/1.1" 200 6227
